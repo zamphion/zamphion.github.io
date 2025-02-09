@@ -1,0 +1,50 @@
+ 7696  git status
+ 7697  more ../hask-flake-demo/haskell-play/history.create_git_repo | tail -150 |more
+ 7698  git commit -m "Init"
+ 7699  more ../hask-flake-demo/haskell-play/history.create_git_repo | tail -100 |more
+ 7700  git remote add origin git@github.com/zamphion/zamphion.github.io.git
+ 7701  history |grep gitlab.io
+ 7702  history |grep gitlab
+ 7703  history |grep github.io
+ 7704  more ../hask-flake-demo/haskell-play/history.create_git_repo | tail -100 |more
+ 7705  git remote add origin git@github.com/zamphion/zamphion.github.io.git
+ 7706  git set-url origin git@github.com/zamphion/zamphion.github.io.git
+ 7707  git remote set-url origin git@github.com/zamphion/zamphion.github.io.git
+ 7708  git set-url main git@github.com/zamphion/zamphion.github.io.git
+ 7709  git remote set-url main git@github.com/zamphion/zamphion.github.io.gita
+ 7710  git remote set-url main git@github.com/zamphion/zamphion.github.io.git
+ 7711  more ../hask-flake-demo/haskell-play/history.create_git_repo | tail -100 |more
+ 7712  git push --set-upstream origin master
+ 7713  git push
+ 7714  git push --set-upstream origin master
+ 7715  git branch -M main
+ 7716  git remote add origin git@github.com/zamphion/zamphion.github.io.git
+ 7717  git push -u origin main
+ 7718  git config --list
+ 7719  cd ../hask-flake-demo/haskell-play
+ 7720  git config --list
+ 7721  cd ..
+ 7722  cd ..
+ 7723  cd zamphion.github.io/
+ 7724  ls
+ 7725  git config --list
+ 7726  ssh -T git@github.com
+ 7727  rm -fr *
+ 7728  rm -fr .git/
+ 7729  echo "# zamphion.github.io" >> README.md
+ 7730  git init
+ 7731  git add README.md
+ 7732  git commit -m "first commit"
+ 7733  git branch -M main
+ 7734  git remote add origin git@github.com:zamphion/zamphion.github.io.git
+ 7735  git push -u origin main
+ 7736  echo "Hello World" > index.html
+ 7737  git add index.html 
+ 7738  git commit -m "index commit"
+ 7739  jj
+ 7740  jj git init --colocate
+ 7741  jj bookmark track main@origin
+ 7742  jj
+ 7743  jj git push
+ 7744  history | tail -50
+ 7745  history | tail -50 > history.ssh.git.setup
